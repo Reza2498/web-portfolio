@@ -30,7 +30,7 @@ width: 100%;
 }
 section{
     padding-bottom: 150px;
-    height: 500px;
+    height: 600px;
 }
 .link-button{
     text-decoration: none;
@@ -44,6 +44,7 @@ section{
     background-image: url(image/dream-bg.png);
     background-repeat: no-repeat;
     background-position: right;
+    height: 700px;
 }
 .single-skills{
     box-shadow: 10px 10px 40px gray;
